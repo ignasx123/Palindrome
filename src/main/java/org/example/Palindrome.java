@@ -7,7 +7,6 @@ public class Palindrome {
 
     public static void main(String[] args) {
 
-        System.out.println("Hello world!");
 
         String n1 = "Whadup!!!";
         String n2 = new String("whadup!!!");
